@@ -1,2 +1,1 @@
-edits from github
-edit from codenvy
+removed
